@@ -1057,157 +1057,157 @@
   </colorschemes>
   <string_tables>
     <string_table name="npnxnanbnsnfns00000000001">
-      <string id="three_image_progress_audio">progress</string>
-      <string id="three_image_audio">audio</string>
-      <string id="three_image_camera_down">camera moved down</string>
-      <string id="three_image_camera_left">camera moved left</string>
-      <string id="three_image_camera_right">camera moved right</string>
-      <string id="three_image_camera_up">camera moved up</string>
-      <string id="three_image_interaction_free">free exploration mode</string>
-      <string id="three_image_interaction_guided">guided tour mode</string>
-      <string id="three_image_hotspot">hotspot</string>
-      <string id="three_image_instructions">Use the w, a, s, and d keys to move around the 360 degree image. Press the tab key to jump to interactive markers and hotspots.</string>
-      <string id="three_image_interaction">360 degree image interaction</string>
-      <string id="three_image_label">label</string>
-      <string id="three_image_marker">marker</string>
-      <string id="three_image_items">items</string>
-      <string id="three_image_interaction_next">next</string>
-      <string id="three_image_pause_audio">pause audio</string>
-      <string id="three_image_pause_video">pause video</string>
-      <string id="three_image_play_audio">play audio</string>
-      <string id="three_image_play_video">play video</string>
-      <string id="three_image_interaction_prev">previous</string>
-      <string id="three_image_visited">visited</string>
-      <string id="three_image_of">of</string>
-      <string id="three_image_count_of_total">%count% of %total%</string>
-      <string id="acc_three_image_step_count_of_total">step %count% of %total%</string>
-      <string id="three_image_item">item</string>
-      <string id="three_image_interaction_step">step</string>
-      <string id="three_image_tooltip">tooltip</string>
-      <string id="three_image_total_items">%total% items</string>
-      <string id="three_image_total_item">%total% item</string>
-      <string id="three_image_progress_video">progress</string>
-      <string id="three_image_video">video</string>
-      <string id="three_image_video_volume">video volume</string>
-      <string id="acc_three_image_count_of_total_items_visited">%count% of %total% items visited</string>
-      <string id="acc_three_image_count_of_total_item_visited">%count% of %total% item visited</string>
-      <string id="three_image_count_of_total_visited">%count% of %total% visited</string>
-      <string id="accessible_text">Accessible text</string>
+      <string id="acc_active">active</string>
+      <string id="acc_closed_captions">Closed captions.</string>
+      <string id="acc_definition">definition</string>
       <string id="acc_enter_fullscreen">Enter full-screen mode</string>
       <string id="acc_exit_fullscreen">Exit full-screen mode</string>
-      <string id="keyboardshortcuts_lower">Keyboard shortcuts</string>
-      <string id="zoom_to_fit">Zoom to fit</string>
-      <string id="modern_video_settings_close">close video settings</string>
+      <string id="acc_finish">finish</string>
+      <string id="acc_locked">locked</string>
+      <string id="acc_modern_video_captions">video captions</string>
       <string id="acc_modern_video_fullscreen">full-screen video</string>
-      <string id="modern_video_playback_settings">Video Playback Settings</string>
-      <string id="modern_video_captions_off">Off</string>
-      <string id="modern_video_captions_on">On</string>
-      <string id="modern_video_captions_label">Captions</string>
-      <string id="acc_modern_video_settings">video settings</string>
       <string id="acc_modern_video_mute">mute video</string>
-      <string id="modern_video_normal_speed">Normal</string>
       <string id="acc_modern_video_pause">pause video</string>
       <string id="acc_modern_video_pip">picture-in-picture</string>
       <string id="acc_modern_video_play">play video</string>
-      <string id="modern_video_playback_speed_title">Playback Speed</string>
-      <string id="acc_modern_video_captions">video captions</string>
       <string id="acc_modern_video_playback_speed">playback speed</string>
+      <string id="acc_modern_video_settings">video settings</string>
       <string id="acc_modern_video_volume">video volume</string>
-      <string id="acc_active">active</string>
+      <string id="acc_next">next</string>
+      <string id="acc_pause">pause</string>
+      <string id="acc_play">play</string>
+      <string id="acc_playback_speed">playback speed</string>
+      <string id="acc_previous">previous</string>
+      <string id="acc_replay">replay</string>
+      <string id="acc_resources">resources</string>
+      <string id="acc_search_input">search</string>
+      <string id="acc_skipnavigation">Skip Navigation. Hit enter to return to the slide.</string>
+      <string id="acc_slide_progress">slide progress</string>
+      <string id="acc_submit">submit</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="acc_three_image_count_of_total_item_visited">%count% of %total% item visited</string>
+      <string id="acc_three_image_count_of_total_items_visited">%count% of %total% items visited</string>
+      <string id="acc_three_image_step_count_of_total">step %count% of %total%</string>
+      <string id="acc_visited">visited</string>
+      <string id="acc_volume">volume</string>
+      <string id="accessible_text">Accessible text</string>
+      <string id="acctext_shortcut">Toggle accessible text</string>
+      <string id="action">Action</string>
       <string id="alt_key">Alt</string>
+      <string id="bio">Bio</string>
       <string id="check_include">Check to include</string>
       <string id="clear">Clear and return to Menu</string>
       <string id="close">Close</string>
-      <string id="acc_closed_captions">Closed captions.</string>
+      <string id="closed_captions">Captions</string>
       <string id="closed_captions_tip">Toggle captions</string>
+      <string id="closedcaptions_shortcut">Toggle closed captions</string>
       <string id="continue">Continue</string>
       <string id="continueresponsive">Continue</string>
-      <string id="playback_speed_title">Playback Speed</string>
-      <string id="playback_speed_normal">Normal</string>
-      <string id="acc_playback_speed">playback speed</string>
       <string id="ctrl_key">Ctrl</string>
+      <string id="definition">Definition</string>
+      <string id="desktop_start">Start Course</string>
+      <string id="disabled_orientation">Please rotate your device</string>
       <string id="enable_keyboardshortcuts">Enable keyboard shortcuts</string>
       <string id="enter_key">Enter</string>
       <string id="exit">Exit</string>
       <string id="filter">Filter</string>
       <string id="finish">FINISH</string>
-      <string id="acc_finish">finish</string>
-      <string id="definition">Definition</string>
-      <string id="acc_definition">definition</string>
-      <string id="glossary">Glossary</string>
-      <string id="terms">Terms</string>
-      <string id="progress_hour">hour</string>
-      <string id="progress_hours">hours</string>
-      <string id="action">Action</string>
-      <string id="keyboardshortcuts">Keyboard Shortcuts</string>
-      <string id="shortcuthelp">List keyboard shortcuts</string>
-      <string id="mute_shortcut">Mute / unmute</string>
-      <string id="next_shortcut">Next slide</string>
-      <string id="playpause_shortcut">Play / pause</string>
-      <string id="previous_shortcut">Previous slide</string>
-      <string id="replay_shortcut">Replay slide</string>
-      <string id="shortcut">Shortcut</string>
-      <string id="submit_shortcut">Submit slide</string>
-      <string id="acctext_shortcut">Toggle accessible text</string>
-      <string id="closedcaptions_shortcut">Toggle closed captions</string>
       <string id="fullscreen_shortcut">Toggle full-screen mode</string>
-      <string id="togglezoom">Toggle zoom to fit</string>
-      <string id="outline">Menu</string>
-      <string id="disabled_orientation">Please rotate your device</string>
-      <string id="progress_minute">minute</string>
-      <string id="progress_minutes">minutes</string>
+      <string id="glossary">Glossary</string>
+      <string id="keyboardshortcuts">Keyboard Shortcuts</string>
+      <string id="keyboardshortcuts_lower">Keyboard shortcuts</string>
+      <string id="mobile_start">Start Course</string>
+      <string id="modern_video_captions_label">Captions</string>
+      <string id="modern_video_captions_off">Off</string>
+      <string id="modern_video_captions_on">On</string>
+      <string id="modern_video_normal_speed">Normal</string>
+      <string id="modern_video_playback_settings">Video Playback Settings</string>
+      <string id="modern_video_playback_speed_title">Playback Speed</string>
+      <string id="modern_video_settings_close">close video settings</string>
+      <string id="more_info">More info</string>
+      <string id="mute_shortcut">Mute / unmute</string>
       <string id="mute_tip">Mute</string>
       <string id="next">NEXT</string>
-      <string id="acc_next">next</string>
+      <string id="next_shortcut">Next slide</string>
       <string id="next_slide_tip">Next slide</string>
-      <string id="transcript_chk">Notes</string>
-      <string id="transcript">Notes</string>
-      <string id="bio">Bio</string>
-      <string id="more_info">More info</string>
-      <string id="closed_captions">Captions</string>
-      <string id="acc_pause">pause</string>
+      <string id="outline">Menu</string>
       <string id="pause_tip">Pause</string>
-      <string id="acc_play">play</string>
       <string id="play_tip">Play</string>
-      <string id="send_an_email">Send an email</string>
+      <string id="playback_speed_normal">Normal</string>
+      <string id="playback_speed_title">Playback Speed</string>
+      <string id="playpause_shortcut">Play / pause</string>
       <string id="prev">PREV</string>
-      <string id="acc_previous">previous</string>
+      <string id="previous_shortcut">Previous slide</string>
       <string id="previous_slide_tip">Previous slide</string>
+      <string id="progress_hour">hour</string>
+      <string id="progress_hours">hours</string>
+      <string id="progress_minute">minute</string>
+      <string id="progress_minutes">minutes</string>
+      <string id="progress_second">second</string>
+      <string id="progress_seconds">seconds</string>
       <string id="question_list">Question List</string>
+      <string id="replay_shortcut">Replay slide</string>
       <string id="replay_tip">Replay</string>
-      <string id="acc_replay">replay</string>
       <string id="resources">Resources</string>
-      <string id="acc_resources">resources</string>
       <string id="restart">Restart</string>
       <string id="resume">Resume</string>
-      <string id="acc_locked">locked</string>
-      <string id="acc_search_input">search</string>
-      <string id="search_toggle">Search</string>
-      <string id="sidebar_toggle">Sidebar Toggle</string>
-      <string id="acc_slide_progress">slide progress</string>
-      <string id="desktop_start">Start Course</string>
-      <string id="mobile_start">Start Course</string>
-      <string id="acc_visited">visited</string>
       <string id="search">Search...</string>
       <string id="search_in">Search in:</string>
       <string id="search_results">Search Results</string>
-      <string id="progress_second">second</string>
-      <string id="progress_seconds">seconds</string>
+      <string id="search_toggle">Search</string>
+      <string id="send_an_email">Send an email</string>
       <string id="settings_tip">Settings</string>
       <string id="shift_key">Shift</string>
-      <string id="acc_skipnavigation">Skip Navigation. Hit enter to return to the slide.</string>
+      <string id="shortcut">Shortcut</string>
+      <string id="shortcuthelp">List keyboard shortcuts</string>
+      <string id="sidebar_toggle">Sidebar Toggle</string>
       <string id="slide_text_chk">Slide Text</string>
       <string id="spacebar_key">Space</string>
       <string id="streaming_video_local_playback_learn_more">Learn More</string>
       <string id="streaming_video_local_playback_republish">To watch this video, use the preview feature in Storyline 360, upload your published output to a server, publish to Review 360, or switch to static video quality.</string>
       <string id="streaming_video_local_playback_title">Streaming video is unavailable for local playback.</string>
-      <string id="submitall">SUBMIT ALL</string>
-      <string id="acc_submitall">submit all</string>
       <string id="submit">SUBMIT</string>
-      <string id="acc_submit">submit</string>
+      <string id="submit_shortcut">Submit slide</string>
       <string id="submit_tip">Submit</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="terms">Terms</string>
+      <string id="three_image_audio">audio</string>
+      <string id="three_image_camera_down">camera moved down</string>
+      <string id="three_image_camera_left">camera moved left</string>
+      <string id="three_image_camera_right">camera moved right</string>
+      <string id="three_image_camera_up">camera moved up</string>
+      <string id="three_image_count_of_total">%count% of %total%</string>
+      <string id="three_image_count_of_total_visited">%count% of %total% visited</string>
+      <string id="three_image_hotspot">hotspot</string>
+      <string id="three_image_instructions">Use the w, a, s, and d keys to move around the 360 degree image. Press the tab key to jump to interactive markers and hotspots.</string>
+      <string id="three_image_interaction">360 degree image interaction</string>
+      <string id="three_image_interaction_free">free exploration mode</string>
+      <string id="three_image_interaction_guided">guided tour mode</string>
+      <string id="three_image_interaction_next">next</string>
+      <string id="three_image_interaction_prev">previous</string>
+      <string id="three_image_interaction_step">step</string>
+      <string id="three_image_item">item</string>
+      <string id="three_image_items">items</string>
+      <string id="three_image_label">label</string>
+      <string id="three_image_marker">marker</string>
+      <string id="three_image_of">of</string>
+      <string id="three_image_pause_audio">pause audio</string>
+      <string id="three_image_pause_video">pause video</string>
+      <string id="three_image_play_audio">play audio</string>
+      <string id="three_image_play_video">play video</string>
+      <string id="three_image_progress_audio">progress</string>
+      <string id="three_image_progress_video">progress</string>
+      <string id="three_image_tooltip">tooltip</string>
+      <string id="three_image_total_item">%total% item</string>
+      <string id="three_image_total_items">%total% items</string>
+      <string id="three_image_video">video</string>
+      <string id="three_image_video_volume">video volume</string>
+      <string id="three_image_visited">visited</string>
+      <string id="togglezoom">Toggle zoom to fit</string>
+      <string id="transcript">Notes</string>
+      <string id="transcript_chk">Notes</string>
       <string id="unmute_tip">Unmute</string>
-      <string id="acc_volume">volume</string>
+      <string id="zoom_to_fit">Zoom to fit</string>
     </string_table>
   </string_tables>
   <fonts>
@@ -1222,9 +1222,8 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.5ud3riZQxHF" displaytext="FINALLY" expand="true" type="slide">
+        <slidelink slideid="_player.5ud3riZQxHF" displaytext="النموذج النهائي" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5ud3riZQxHF.6aD4mXJkhgn" displaytext="Introduction" expand="false" type="slide" />
             <slidelink slideid="_player.5ud3riZQxHF.5f197zhl4aZ" displaytext="Question-1" expand="false" type="slide" />
             <slidelink slideid="_player.5ud3riZQxHF.5bHwXCqV48U" displaytext="Question-1" expand="false" type="slide" />
             <slidelink slideid="_player.5ud3riZQxHF.6qwtls5L7NY" displaytext="Question-1" expand="false" type="slide" />
@@ -1325,6 +1324,129 @@
             <slidelink slideid="_player.5ud3riZQxHF.6UK82soe3j0" displaytext="Question-1" expand="false" type="slide" />
             <slidelink slideid="_player.5ud3riZQxHF.5dKsPXLljga" displaytext="Question-1" expand="false" type="slide" />
             <slidelink slideid="_player.5ud3riZQxHF.6S1lPIuiff1" displaytext="Question-1" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6N6K2P4o0Zy" displaytext="النموذج الأول" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6N6K2P4o0Zy.5VwQvw1FJql" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6N6K2P4o0Zy.5oEn2oDVFWv" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6N6K2P4o0Zy.6Jljddyv6vE" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6N6K2P4o0Zy.6Gtv1hcPw9E" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6N6K2P4o0Zy.5snAaIdQlSh" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6N6K2P4o0Zy.67aiTsp5Ksd" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6N6K2P4o0Zy.6ZYY1RZVxXA" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6N6K2P4o0Zy.6HeYpuN0Ess" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6N6K2P4o0Zy.68Bsqb1K7wk" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6N6K2P4o0Zy.5WZOUm3sYu9" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6N6K2P4o0Zy.6cjZnXyFi7d" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6N6K2P4o0Zy.5iWsCz1g8wX" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6N6K2P4o0Zy.6qzfNP6AaKo" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6N6K2P4o0Zy.5fA01crSxYw" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6N6K2P4o0Zy.6fFvaUu0YT3" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6N6K2P4o0Zy.5ZefgoDMynq" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6N6K2P4o0Zy.62M8YaKhpFa" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6N6K2P4o0Zy.5nw4NjFtsSQ" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6N6K2P4o0Zy.6nq3qseWfZI" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6N6K2P4o0Zy.6qqDCzacuOE" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6N6K2P4o0Zy.6i2W2vF7XuY" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6N6K2P4o0Zy.5pRz7EFokqo" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6N6K2P4o0Zy.6C9cT7vGTpT" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6N6K2P4o0Zy.63oYrCY1BfL" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6N6K2P4o0Zy.6Nezno72BPR" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6N6K2P4o0Zy.6AwIXPrWDlB" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6N6K2P4o0Zy.5zhebeJ09EQ" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6N6K2P4o0Zy.5hE21h5DZgY" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6N6K2P4o0Zy.5kikND8nMSg" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6N6K2P4o0Zy.6oAzFz14Wvi" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6N6K2P4o0Zy.64q1fKr0Bbj" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6N6K2P4o0Zy.6VN0x4G9pPD" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6N6K2P4o0Zy.5pdmjz9t8Vm" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6N6K2P4o0Zy.5x3P9ZrIbzd" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6N6K2P4o0Zy.6EpGZlPMChD" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6N6K2P4o0Zy.5qzGFfCJQVM" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6N6K2P4o0Zy.69DL71HH6tK" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6N6K2P4o0Zy.6LPwgsRaVLK" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6N6K2P4o0Zy.6BrlqnmwkNA" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6N6K2P4o0Zy.6EOHNavLt1F" displaytext="Question-1" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5pzhBLNBIZo" displaytext="النموذج الثاني" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5pzhBLNBIZo.61tNQPUtM4L" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.5pzhBLNBIZo.5pF0bjUVEfi" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.5pzhBLNBIZo.5zUxwuUL1W3" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.5pzhBLNBIZo.6SFbb8fA5Od" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.5pzhBLNBIZo.5v5g3Jqkfz7" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.5pzhBLNBIZo.622LU1IqhdV" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.5pzhBLNBIZo.6BDx2B7hi6W" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.5pzhBLNBIZo.6Ug0sQeH6uz" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.5pzhBLNBIZo.6HE5fSLlqbN" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.5pzhBLNBIZo.6X7IDptWYGc" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.5pzhBLNBIZo.5rBki19zqPA" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.5pzhBLNBIZo.5uJGzhk5RYU" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.5pzhBLNBIZo.6dTt1w9kcae" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.5pzhBLNBIZo.6ePv1TMv9in" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.5pzhBLNBIZo.5jzDLuNhmUU" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.5pzhBLNBIZo.6ZtYua2d0qe" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.5pzhBLNBIZo.6PCXGcL64By" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.5pzhBLNBIZo.6FQjBlUmexH" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.5pzhBLNBIZo.6jTGdKWUpsO" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.5pzhBLNBIZo.6lcF3HZspgL" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.5pzhBLNBIZo.5y8YUpG6fZD" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.5pzhBLNBIZo.6FaG0o5ZJv2" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.5pzhBLNBIZo.5a0Set81IYT" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.5pzhBLNBIZo.6kkHmmk0HD7" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.5pzhBLNBIZo.64BSb2OSdK0" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.5pzhBLNBIZo.6Wv1CCsteeg" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.5pzhBLNBIZo.6C53tzLEdxD" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.5pzhBLNBIZo.5gfk0TFnTSk" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.5pzhBLNBIZo.5uOFgk3QKmN" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.5pzhBLNBIZo.5rJALhvPpAT" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.5pzhBLNBIZo.6AfXSJf7LyC" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.5pzhBLNBIZo.6Mje0sHK9Hv" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.5pzhBLNBIZo.6ZRY3ML8x6L" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.5pzhBLNBIZo.6aDKZ9Z7vIv" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.5pzhBLNBIZo.5ZHUDGPSR8J" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.5pzhBLNBIZo.5hhso0Taczo" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.5pzhBLNBIZo.6PfKY4QlcKw" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.5pzhBLNBIZo.6iyc7FQE1ew" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.5pzhBLNBIZo.5xMJ44BlIH6" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.5pzhBLNBIZo.6VMNBLui3DB" displaytext="Question-1" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6JIQb2cwLSe" displaytext="النموذج الثالث" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6JIQb2cwLSe.6OEmZFCEKkO" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6JIQb2cwLSe.5v9M0ml5Ii5" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6JIQb2cwLSe.5yaTMAYeQuw" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6JIQb2cwLSe.6S61CQjjpLF" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6JIQb2cwLSe.6CH5GeERMeO" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6JIQb2cwLSe.60Nh4txm9rM" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6JIQb2cwLSe.6aUKgF0sHmm" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6JIQb2cwLSe.5XxAXQ97Ttf" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6JIQb2cwLSe.6glDykiN5qB" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6JIQb2cwLSe.5o0dImAuKbB" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6JIQb2cwLSe.5sh17vk6QO7" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6JIQb2cwLSe.6aho9W8Uoj2" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6JIQb2cwLSe.6P09mDpar0h" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6JIQb2cwLSe.6iMC4LvETEX" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6JIQb2cwLSe.5qMHfO5W8BJ" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6JIQb2cwLSe.6752kNLVBIq" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6JIQb2cwLSe.6IB1QsUtWuK" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6JIQb2cwLSe.67y3UBzM47P" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6JIQb2cwLSe.6W7F18FfHwh" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6JIQb2cwLSe.6Wf47yRCNXR" displaytext="Question-1" expand="false" type="slide" />
+            <slidelink slideid="_player.6JIQb2cwLSe.63tfMAxCwoE" displaytext="Question-1" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6EFrJtRhP4W" displaytext="القائمة الرئيسية" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6EFrJtRhP4W.5oCbB9yRXrf" displaytext="Introduction" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5ggxY24bAII" displaytext="Untitled Scene" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5ggxY24bAII.5tEasboaBJe" displaytext="Introduction" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
